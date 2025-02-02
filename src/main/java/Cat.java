@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class Cat {
+
+public class Cat {
+
+    public Cat() {
+    }
 }
